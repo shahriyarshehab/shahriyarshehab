@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=210&section=header&text=Shehab%20Ali&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17" alt="Shehab Ali profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=210&section=header&text=Shehab%20Ali&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17" alt="Md. Shehab Ali profile banner" width="100%" />
 
   <h3>Hi there, I'm Shehab 👋</h3>
   <p>
