@@ -45,36 +45,58 @@
 
 ## Featured Projects
 
+<p align="center">
+  <i>A few projects where I explore practical ideas, useful tools, and better user experiences.</i>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📚 CareerDesk</h3>
-      A study and career-preparation dashboard focused on organizing learning and routines.
-      <br /><br />
-      <a href="https://github.com/shahriyarshehab/careerDesk">View repository →</a>
+      <p>Organize study routines and career preparation in one place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Productivity-2563EB?style=flat-square" alt="Productivity" />
+        <img src="https://img.shields.io/badge/Type-Web%20App-0F766E?style=flat-square" alt="Web app" />
+      </p>
+      <a href="https://github.com/shahriyarshehab/careerDesk"><strong>Explore repository →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>📰 BanglaRSS</h3>
-      A project exploring RSS feeds and access to news content in Bangla.
-      <br /><br />
-      <a href="https://github.com/shahriyarshehab/BanglaRSS">View repository →</a>
+      <p>Explore RSS feeds and news content with a Bangla-focused project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-News-7C3AED?style=flat-square" alt="News" />
+        <img src="https://img.shields.io/badge/Language-Bangla-059669?style=flat-square" alt="Bangla" />
+      </p>
+      <a href="https://github.com/shahriyarshehab/BanglaRSS"><strong>Explore repository →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗞️ NewsReader</h3>
-      A news-reading project from my web development experiments.
-      <br /><br />
-      <a href="https://github.com/shahriyarshehab/NewsReader">View repository →</a>
+      <p>A news-reading project built through hands-on web development experiments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Reading-DB2777?style=flat-square" alt="Reading" />
+        <img src="https://img.shields.io/badge/Type-Web%20Project-475569?style=flat-square" alt="Web project" />
+      </p>
+      <a href="https://github.com/shahriyarshehab/NewsReader"><strong>Explore repository →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧮 Land Deduction Table</h3>
-      A practical tool project related to land-measurement calculations.
-      <br /><br />
-      <a href="https://github.com/shahriyarshehab/landDeductionTable">View repository →</a>
+      <p>A practical utility project for working with land-measurement calculations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Utility-D97706?style=flat-square" alt="Utility" />
+        <img src="https://img.shields.io/badge/Domain-Land%20Data-15803D?style=flat-square" alt="Land data" />
+      </p>
+      <a href="https://github.com/shahriyarshehab/landDeductionTable"><strong>Explore repository →</strong></a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/shahriyarshehab?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</p>
 
 ## GitHub Activity
 
